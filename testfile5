@@ -1,0 +1,2 @@
+This file for testing purpose only
+this file push to remote repository from /Git/projects path and through jenkins job this file pull it this /testdir path
